@@ -1,0 +1,7 @@
+google-adk[gcp]>=2.0.0
+a2a-sdk[http-server]~=0.3.22
+google-cloud-firestore>=2.14.0
+google-cloud-storage>=2.10.0
+a2ui-agent-sdk>=0.4.0
+uvicorn>=0.22.0
+fastapi>=0.100.0
